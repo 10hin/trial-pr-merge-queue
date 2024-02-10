@@ -1,8 +1,8 @@
 # Trial merge queue
 
-## This section added on branch `feature/update-a`
+## This section updated on branch `feature/update-a`
 
-This section for testing
+This section is updated for testing
 
 ## Introduction
 
