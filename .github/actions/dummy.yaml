@@ -1,0 +1,19 @@
+name: Dummy CI
+
+on:
+  pull_request:
+
+jobs:
+  runs-on: ubuntu-latest
+  check:
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check
+        run: |
+          if stat README.md
+          then
+            echo 'OK'
+          else
+            echo 'NG'
+          fi
