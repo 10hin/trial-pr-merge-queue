@@ -12,6 +12,6 @@ This is introduction of this repository.
 
 Try and test GitHub.com feature protect branch with rule `require merge queue`.
 
-## This section added on main
+## This section updated on main
 
-This section added on branch `main`
+This section updated on branch `main`
